@@ -7,3 +7,8 @@
 - [ ] Baca/dengarkan The Cathedral and the Bazaar by Eric S. Raymond di http://www.catb.org/~esr/writings/cathedral-bazaar/
 - [ ] Buat GitHub akun dan push laporan baca dan percobaan ke GitHub
 
+###### Minggu 2
+- [ ] Read Linux Bible 8th Ed. everyday, use your 30 mins per day and commit to GitHub
+- [ ] Work on  Chapter 3: Using the Shell exercise (10 questions)
+- [ ] Work on  Chapter 4: Moving Around the Filesystem (10 questions)
+- [ ] Read Chapter 5 for next week 
