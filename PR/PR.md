@@ -12,3 +12,10 @@
 - [ ] Work on  Chapter 3: Using the Shell exercise (10 questions)
 - [ ] Work on  Chapter 4: Moving Around the Filesystem (10 questions)
 - [ ] Read Chapter 5 for next week 
+
+###### Minggu 3
+- [ ] Read Linux Bible 8th Ed. everyday, use your 30 mins per day and commit to GitHub
+- [ ] Work on  Chapter 5: Using the Shell exercise (10 questions)
+- [ ] Work on  Chapter 6: Moving Around the Filesystem (10 questions)
+- [ ] Work on  Chapter 7: Moving Around the Filesystem (10 questions)
+- [ ] Read Chapter 1 from Python Essential Reference by David Beazley for next week
