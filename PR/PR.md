@@ -25,3 +25,10 @@
 - [ ] Buat proposal proyek baik untuk presentasi maupun proyek akhir
 - [ ] Read https://developers.google.com/edu/python/ and work on its exercises 
 - [ ] Jika ada waktu luang silahkan coba module dari https://pymotw.com/2/contents.html
+
+###### Minggu 5
+- [ ] Buat proposal proyek baik untuk presentasi maupun proyek akhir
+- [ ] Coba semua perintah-perintah di TOS-Lecture02.pptx
+- [ ] Kerjakan Lab01 dan Lab02 dari TOS-Lecture03.pptx
+- [ ] Baca buku Progit bab 1-3 dan coba lakukan branching dengan teman sekelompok
+- [ ] Minggu depan kita akan membahas awk, sed, curl, wget, mail dan cron
