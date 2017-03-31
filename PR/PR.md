@@ -32,3 +32,7 @@
 - [ ] Kerjakan Lab01 dan Lab02 dari TOS-Lecture03.pptx
 - [ ] Baca buku Progit bab 1-3 dan coba lakukan branching dengan teman sekelompok
 - [ ] Minggu depan kita akan membahas awk, sed, curl, wget, mail dan cron
+
+###### Minggu 6
+- [ ] Kerjakan soal-soal UTS TOS lama di himainfra
+
