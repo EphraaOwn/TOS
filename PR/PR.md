@@ -36,3 +36,11 @@
 ###### Minggu 6
 - [ ] Kerjakan soal-soal UTS TOS lama di himainfra
 
+###### Minggu 7
+- [ ] UTS TOS
+
+###### Minggu 8
+- [ ] Kerjakan tutorial CherryPy di http://docs.cherrypy.org/en/latest/tutorials.html
+- [ ] Buatlah blog framework dengan menggunakan CherryPy
+- [ ] Isi angket dosen di https://sim.petra.ac.id/petragate/index.php
+- [ ] Coba Portable Python di komputer Puskom terutama untuk GUI (PyQt, dll)
