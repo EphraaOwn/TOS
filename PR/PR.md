@@ -44,3 +44,9 @@
 - [ ] Buatlah blog framework dengan menggunakan CherryPy
 - [ ] Isi angket dosen di https://sim.petra.ac.id/petragate/index.php
 - [ ] Coba Portable Python di komputer Puskom terutama untuk GUI (PyQt, dll)
+
+###### Minggu 9
+- [ ] Kerjakan project
+
+###### Minggu 10
+- [ ] Buatlah salah satu video game di https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aRpfixWba8ZF6tJnZy5Mfw dengan PyQt
