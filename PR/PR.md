@@ -50,3 +50,11 @@
 
 ###### Minggu 10
 - [ ] Buatlah salah satu video game di https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aRpfixWba8ZF6tJnZy5Mfw dengan PyQt
+
+###### Minggu 10
+- [ ] Buatlah database dan REST API untuk menyimpan score game yang dibuat di minggu sebelumnya
+
+###### Minggu 11
+- [ ] Kerjakan tutorial NumPy (https://docs.scipy.org/doc/numpy-dev/user/quickstart.html)
+- [ ] Kerjakan tutorial Matplotlib (https://matplotlib.org/users/tutorials.html)
+
